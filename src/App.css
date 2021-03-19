@@ -36,3 +36,134 @@
     transform: rotate(360deg);
   }
 }
+
+
+.explore {
+  margin: auto;
+  width: 18%;
+}
+
+.input-group-addon {
+  position: absolute;
+  right: 9px;
+  top: 3px;
+  padding: 4px 11px;
+  border-radius: 25px;
+  background-color: red;
+}
+
+.search_box {
+  border-radius: 25px !important;
+  border: 1px solid rgb(221, 221, 221);
+}
+
+/* .nav_head {
+  height: 80px;
+} */
+
+.search_box input {
+  border: 0 !important;
+}
+.search_box input:focus {
+  outline: none !important;
+}
+
+.search_box .wrapper_div {
+  border-radius: 25px;
+  padding: 5px 15px;
+  display: block;
+  border-right: 1px solid rgb(221, 221, 221);
+}
+
+.wrapper_div:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.search_box .wrapper_div:focus {
+  -moz-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  -webkit-box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+  box-shadow: 5px 5px 5px rgba(68, 68, 68, 0.6);
+}
+
+.counters_add {
+  padding: 0 7px;
+  border-radius: 15px;
+  border: 1px solid rgb(176, 176, 176);
+}
+
+.counters_sub {
+  padding: 0 9px;
+  border-radius: 15px;
+  border: 1px solid rgb(176, 176, 176);
+}
+
+.counters_add:focus, .counters_sub:focus {
+  border: 1px solid #000000;
+}
+
+.display_count {
+  margin: auto;
+}
+
+.wrapper_count {
+  padding: 20px;
+  border: 1px solid red;
+  width: 350px;
+  border-radius: 25px;
+}
+
+.place_arround, .expnce_arround {
+  border-radius: 10px;
+  margin-bottom: 8px;
+}
+
+.section-2, .section-3, .section-4, .section-5 {
+  padding: 0 80px;
+}
+
+.sub-headings {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.stays_images {
+  border-radius: 10px;
+}
+
+.places {
+  margin-left: 15px;
+}
+
+.section-4 {
+  background-color: rgb(0, 0, 0);
+}
+
+.expnce_title {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.expnce_sub_title {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.wrapper {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.headings {
+  padding: 40px 0 0 0;
+}
+
+.stays {
+  padding-bottom: 40px;
+}

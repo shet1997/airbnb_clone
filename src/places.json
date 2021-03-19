@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Calangute",
+        "image": "https://a0.muscache.com/im/pictures/be4d3ba5-08d7-4afe-95a7-f2da6453886a.jpg?im_q=medq&im_w=720",
+        "hour": "1 hour drive"
+    },
+    {
+        "name": "Gokarna",
+        "image": "https://a0.muscache.com/im/pictures/3d541658-fb05-4316-af26-b8c1337fbe8c.jpg?im_q=medq&im_w=720",
+        "hour": "1 hour drive"
+    },
+    {
+        "name": "Kodaikanal",
+        "image": "https://a0.muscache.com/im/pictures/a7fe39da-3e57-44df-a744-9a73e482802d.jpg?im_q=medq&im_w=720",
+        "hour": "1 hour drive"
+    },
+    {
+        "name": "Dandeli",
+        "image": "https://a0.muscache.com/im/pictures/08b33515-49eb-4b9b-8e60-f962fb7e700b.jpg?im_q=medq&im_w=720",
+        "hour":  "1 hour drive" 
+    },
+    {
+        "name": "Kalpetta",
+        "image": "https://a0.muscache.com/im/pictures/f98fbb2e-9e10-4514-b4a7-02c467e1da03.jpg?im_q=medq&im_w=720",
+        "hour":  "1 hour drive"
+    },
+    {
+        "name": "Agonda",
+        "image": "https://a0.muscache.com/im/pictures/bd549da5-ecdd-4642-9a4c-4943c9c8cf28.jpg?im_q=medq&im_w=720",
+        "hour":  "1 hour drive"
+    },
+    {
+        "name": "Ooty",
+        "image": "https://a0.muscache.com/im/pictures/b948e0e0-c78f-4895-b433-c90401019981.jpg?im_q=medq&im_w=720",
+        "hour":  "1 hour drive"
+    },
+    {
+        "name": "Panjali",
+        "image": "https://a0.muscache.com/im/pictures/b0097a48-c16c-4869-84df-9bbe7d4e9eb0.jpg?im_q=medq&im_w=720",
+        "hour":  "1 hour drive"
+    }
+]
